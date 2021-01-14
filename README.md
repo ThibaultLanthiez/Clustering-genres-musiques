@@ -6,9 +6,9 @@
 
 L'objectif de ce projet est de regrouper différents genres de musiques selon leurs ressemblances. 
 
-Pour cela, je suis allé sur la plateforme Kaggle et j'ai télécharger des données sur les musiques les plus écoutées de ces dernières années sur Spotify.
+Pour cela, je suis allé sur la plateforme Kaggle et j'ai téléchargé des données sur les musiques les plus écoutées de ces dernières années sur Spotify.
 
-Avec le langage Python et l'algorithme K-Means de la bibliothèque Scikit-Learn, j'ai pu définir 3 groupes :
+Avec le langage python et l'algorithme K-Means de la bibliothèque Scikit-Learn, j'ai pu définir 3 groupes :
 * Folk / Indie : très acoustique, calme, peu dansante, peu de parole et pas très joyeuse
 * Pop / Rock / Latine : énergique, dansante, joyeuse et faite pour le live
 * Electro-house / hip-hop / rap / r&b : énergique, moyennement dansante et peut être joyeuse ou triste
